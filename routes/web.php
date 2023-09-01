@@ -23,3 +23,4 @@ Route::get('/lihat-seragam', function () {
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::resource('/seragam', App\Http\Controllers\SeragamController::class);

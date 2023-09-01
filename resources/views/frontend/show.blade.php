@@ -214,7 +214,7 @@
                         </table>
                 </div>
                 <div class="modal fade" id="productModal" tabindex="-1" aria-labelledby="productModalLabel" aria-hidden="true">
-                    <div class="modal-dialog modal-lg modal-dialog-centered" >
+                    <div class="modal-dialog modal-lg" >
                         <div class="modal-content">
                             <div class="modal-header">
                             <h5 class="modal-title">Modal title</h5>
